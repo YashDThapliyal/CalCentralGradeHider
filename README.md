@@ -12,7 +12,7 @@ This Chrome extension automatically blurs your grades on CalCentral, with the op
 - Floating 👁 button for easy toggling
 
 ### 🛠 Install (Manual)
-1. Clone this repo or [download as ZIP](https://github.com/your-username/calcentral-grade-blur/archive/refs/heads/main.zip)
+1. Clone this repo or [download as ZIP](https://github.com/YashDThapliyal/CalCentralGradeHider/archive/refs/heads/main.zip)
 2. Go to `chrome://extensions`
 3. Enable **Developer mode** (top right)
 4. Click **Load unpacked** and select the folder
