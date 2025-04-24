@@ -7,8 +7,8 @@ This Chrome extension automatically blurs your grades on CalCentral, with the op
 ### 🔐 Features
 - Automatically blurs grades on load
 - Toggle grades on/off with:
-  - `Ctrl + Shift + G` (Windows/Linux)
-  - `Cmd + Shift + G` (Mac)
+  - `Ctrl + Shift + Y` (Windows/Linux)
+  - `Cmd + Shift + Y` (Mac)
 - Floating 👁 button for easy toggling
 
 ### 🛠 Install (Manual)
