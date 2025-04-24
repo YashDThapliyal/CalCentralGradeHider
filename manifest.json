@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "CalCentral Grade Blur",
+  "version": "1.0",
+  "description": "Auto-blurs grades on CalCentral with a toggle button or shortcut",
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": ["https://calcentral.berkeley.edu/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://calcentral.berkeley.edu/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ]
+}
+

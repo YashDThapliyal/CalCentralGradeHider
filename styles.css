@@ -1,0 +1,20 @@
+.blurred-grades {
+    filter: blur(6px);
+    transition: filter 0.3s ease;
+}
+
+#grade-toggle-button {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 8px 12px;
+    font-size: 14px;
+    z-index: 10000;
+    cursor: pointer;
+    background: #333;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
