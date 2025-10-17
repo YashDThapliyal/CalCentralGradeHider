@@ -1,15 +1,15 @@
 # CalCentral Grade Blur
 
-Hide your grades on CalCentral until you're ready to see them.
+A browser extension that automatically blurs grades on CalCentral (UC Berkeley's student portal)
 
 This Chrome extension automatically blurs your grades on CalCentral, with the option to toggle visibility using a keyboard shortcut or button.
 
-### 🔐 Features
+### Features
 - Automatically blurs grades on load
 - Toggle grades on/off with:
   - `Ctrl + Shift + Y` (Windows/Linux)
   - `Cmd + Shift + Y` (Mac)
-- Floating 👁 button for easy toggling
+- Floating (👁/🙈) button in the top-right corner to toggle for easy toggling
 
 ### 🛠 Install (Manual)
 1. Clone this repo or [download as ZIP](https://github.com/YashDThapliyal/CalCentralGradeHider/archive/refs/heads/main.zip)
