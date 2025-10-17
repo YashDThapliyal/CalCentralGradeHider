@@ -17,6 +17,15 @@ This Chrome extension automatically blurs your grades on CalCentral, with the op
 3. Enable **Developer mode** (top right)
 4. Click **Load unpacked** and select the folder
 
+### How It Works
+
+The extension uses a MutationObserver to detect when grade elements load on the page, then automatically applies a blur filter. Users can toggle the blur state using either the visual button or keyboard shortcut.
+
+### Privacy
+
+This extension runs entirely in your browser and doesn't collect or transmit any data. All functionality is local to your device.
+
+
 ---
 
 This project is not affiliated with UC Berkeley or CalCentral.
